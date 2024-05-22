@@ -1,6 +1,5 @@
-# HealthCare Database SIP
-
-SIP Medical Information Repository
+# Medical Repository
+Medical Information Repository
 
 
 
